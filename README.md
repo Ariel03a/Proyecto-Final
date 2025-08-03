@@ -4,6 +4,7 @@
 
 Este proyecto es una aplicación construida con Ionic y React que permite a los usuarios realizar pedidos seleccionando platos por categoría, cantidad y tipo. Incluye autenticación, visualización de pedidos cargados y una interfaz limpia y responsiva.
 Se basa en la opcion 4 de una aplicación de pizzería. Mostrando el frontend correspondiente a la materia y su conexión con el backend en una Maquina Virtual del mismo. 
+Importante usar "npm install"
 
 Video: https://youtu.be/0y6XapgpWcc 
 
